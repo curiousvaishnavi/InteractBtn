@@ -1,0 +1,40 @@
+@font-face {
+    font-family: hela;
+    src: url(./Helvetica.woff2);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: hela;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    background-color:#222;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
+
+ input{
+    display: none;
+ }
+ #button{
+    padding: 12px 25px;
+    border-radius: 10px;
+    color: rgb(251, 253, 255);
+    background-color: rgb(14, 133, 95);
+ }
+ #button:hover{
+    color: chartreuse;
+     background-color: rgb(13, 66, 48); 
+    display: block;
+    filter: drop-shadow(0 0 10px #055aa4);
+ }
