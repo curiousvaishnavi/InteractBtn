@@ -8,7 +8,9 @@ This project is built with a learning-first mindset to practice **JavaScript fun
 👉 **Demo Video:**  
 
 Here’s a quick video walkthrough showing how **InteractBtn** works in real time:
+
 https://github.com/user-attachments/assets/dc1e5207-20e0-48e3-9fa2-b5628d4380cd
+
 This demo highlights button interaction, event handling, and dynamic UI behavior powered by JavaScript.
 
 ---
